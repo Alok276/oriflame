@@ -8,11 +8,12 @@ AI-generation launch screen and the share flow from the prototype.
 All data is hardcoded. There is no backend, API layer or URL launcher — per the
 brief, this is a UI build meant to be demoed.
 
-![Smart Post screen](image.png)
+![Smart Post screen](docs/screenshot.png)
 
 ---
 
 ## Running it
+
 
 ```bash
 flutter pub get
